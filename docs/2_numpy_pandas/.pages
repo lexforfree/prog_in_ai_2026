@@ -1,0 +1,7 @@
+title: "2. NumPy и Pandas"
+nav:
+  - index.md
+  - numpy_basics.ipynb
+  - numpy_linalg.ipynb
+  - pandas_basics.ipynb
+  - pandas_eda_groupby.ipynb

@@ -8,3 +8,4 @@ mkdocs>=1.6
 mkdocs-material>=9.5
 mkdocs-jupyter>=0.24
 nbformat>=5.10
+mkdocs-awesome-pages-plugin>=2.9
