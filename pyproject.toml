@@ -1,0 +1,18 @@
+[project]
+name = "prog-in-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.0",
+    "matplotlib>=3.8",
+    "mkdocs>=1.6",
+    "mkdocs-jupyter>=0.24",
+    "mkdocs-material>=9.5",
+    "nbformat>=5.10",
+    "numpy>=1.26",
+    "pandas>=2.1",
+    "scipy>=1.11",
+    "seaborn>=0.13",
+]
