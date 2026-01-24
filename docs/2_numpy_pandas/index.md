@@ -6,6 +6,10 @@
 - Pandas: Series/DataFrame, индексация, фильтрация, агрегации, groupby.
 - EDA: чистка данных, пропуски, базовый отчёт.
 
+# Краткий обзор возможностей Pandas
+
+* [Pandas Cheat sheet](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet)
+
 ## для запуска ноутбуков и установки окружения
 
 ## to install uv
@@ -21,8 +25,6 @@ cargo install --locked uv
 
 ```bash
 uv add jupyter
-# or 
-uv add -r requirements.txt
 ```
 
 ## to run notebook 
