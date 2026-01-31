@@ -1,3 +1,4 @@
 nav:
   - index.md
   - 2_numpy_pandas
+  - 3_scipy_grad
