@@ -14,7 +14,10 @@ dependencies = [
     "nbformat>=5.10",
     "numpy>=1.26",
     "pandas>=2.1",
+    "plotly>=6.5.2",
     "pooch>=1.9.0",
+    "scikit-learn>=1.8.0",
     "scipy>=1.11",
     "seaborn>=0.13",
+    "xgboost>=3.2.0",
 ]
