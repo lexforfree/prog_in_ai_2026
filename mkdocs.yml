@@ -25,9 +25,12 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
-  - pymdownx.arithmatex:
-      generic: true
+  - pymdownx.arithmatex
   - md_in_html
 
+
 extra_javascript:
+  - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+# extra_javascript:
+#   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
