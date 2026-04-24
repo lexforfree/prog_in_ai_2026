@@ -25,7 +25,8 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
-  - pymdownx.arithmatex
+  - pymdownx.arithmatex:
+      generic: true
   - md_in_html
 
 
