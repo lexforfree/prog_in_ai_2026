@@ -17,7 +17,7 @@ style: |
   .columns { display: grid; grid-template-columns: 1fr 1fr; gap: 2em; }
   .highlight { background: #eaf4fb; border-left: 4px solid #2e86c1; padding: 10px 16px; border-radius: 0 8px 8px 0; }
   .warning  { background: #fef9e7; border-left: 4px solid #f1c40f; padding: 10px 16px; border-radius: 0 8px 8px 0; }
-# to pdf: marp ./docs/10_pca/slides.md --pdf
+# to pdf: marp ./docs/.../slides.md --pdf
 ---
 
 # PCA — Метод Главных Компонент
