@@ -3,3 +3,4 @@ task*.txt
 .venv
 **/*.ipynb_checkpoints/
 uv.lock
+site/
